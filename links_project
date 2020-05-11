@@ -52,3 +52,31 @@ https://www.geeksforgeeks.org/introduction-machine-learning-using-python/
 
 https://www.geeksforgeeks.org/30-minutes-to-machine-learning/  (must do)
 https://www.geeksforgeeks.org/best-python-libraries-for-machine-learning/ (also do)
+
+https://dev.to/sm0ke/django-boilerplate-code-open-source-and-free-2aa5
+
+
+
+Hahahaha.. hell no! Why on earth you want to learn all ML algorithms?! Just define your use case, go for that particular line of problem and check what approaches are available to solve that problem. Sometimes traditional approach is enough, if going after ML path; check what are the available algorithms in line; go thorough the top 3 algorithms based on doing some research (believe me you are not the first one with your that problem), and try to understand the basic of each of them!
+
+Supervised Learning
+
+ 
+1. Decision Trees:
+2. Naive Bayes Classification:
+3. Ordinary Least Squares Regression: 
+4. Logistic Regression:
+5. Support Vector Machines:
+6. Ensemble Methods:
+7. Clustering Algorithms:
+8. Principal Component Analysis:
+
+
+
+Skills of machine learning engineer:
+Python
+Probability and statistics
+Data modeling and evaluation:
+Applying machine learning algorithms and libraries
+Software engineering and system design: 
+
