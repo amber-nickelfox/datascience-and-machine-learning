@@ -1,0 +1,82 @@
+https://data-flair.training/blogs/machine-learning-tutorial/
+
+
+https://www.youtube.com/watch?v=gOXoFDrseis&t=755s  (BOSTON)
+https://www.youtube.com/watch?v=QIUxPv5PJOY (STOCK MARKET PREDICTION)
+
+https://acadboost.com/data-science-101/
+
+
+Applied Mathematics
+
+You should have a solid understanding of statistics, as it will be needed for making decisions for evaluation of experiments. Knowledge of calculus and linear algebra helps in using the results of a machine learning or statistical implementation in a different case independently.
+
+
+
+Data cleaning and visualisation
+
+Do not think that data will be readily available to you for processing. Often a great deal of time is spent in cleaning the data, adjusting missed values, correcting formatting. Without this, data cannot be processed to further stages.
+
+
+
+Software engineering
+
+A strong software engineering background is the most essential requirement. You should have a clear understanding of algorithms, data structures, memory management which will be always tested in the first rounds for the data science roles.
+
+
+
+
+https://www.kaggle.com/learn/overview
+
+https://www.datacamp.com/courses/introduction-to-machine-learning-with-r
+
+
+https://www.linkedin.com/feed/update/urn:li:activity:6364745036768382976/
+
+
+
+https://www.linkedin.com/feed/update/urn:li:activity:6365105961912410112/  (8 essestial ml algo)
+
+
+
+https://www.youtube.com/watch?v=ICKBWIkfeJ8&list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH   (ML Udacity)
+
+
+
+Geeks for geeks: Data and its preprocessing
+Machine learning
+https://www.geeksforgeeks.org/machine-learning/#int
+
+https://www.geeksforgeeks.org/introduction-machine-learning-using-python/
+
+
+https://www.geeksforgeeks.org/30-minutes-to-machine-learning/  (must do)
+https://www.geeksforgeeks.org/best-python-libraries-for-machine-learning/ (also do)
+
+https://dev.to/sm0ke/django-boilerplate-code-open-source-and-free-2aa5
+
+
+
+Hahahaha.. hell no! Why on earth you want to learn all ML algorithms?! Just define your use case, go for that particular line of problem and check what approaches are available to solve that problem. Sometimes traditional approach is enough, if going after ML path; check what are the available algorithms in line; go thorough the top 3 algorithms based on doing some research (believe me you are not the first one with your that problem), and try to understand the basic of each of them!
+
+Supervised Learning
+
+ 
+1. Decision Trees:
+2. Naive Bayes Classification:
+3. Ordinary Least Squares Regression: 
+4. Logistic Regression:
+5. Support Vector Machines:
+6. Ensemble Methods:
+7. Clustering Algorithms:
+8. Principal Component Analysis:
+
+
+
+Skills of machine learning engineer:
+Python
+Probability and statistics
+Data modeling and evaluation:
+Applying machine learning algorithms and libraries
+Software engineering and system design: 
+
